@@ -1,6 +1,6 @@
 ## Environment
 
-* Spring Boot 
+* Spring Boot (v2.2.6.RELEASE)
 
 * Maven
 
